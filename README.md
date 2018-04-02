@@ -12,8 +12,8 @@ numbered list
 1. item 1
 1. item 2
 ## Link
-http://github.com - automatic!
-[GitHub](http://github.com)
+http://github.com - automatic!  
+[Google](http://google.com)
 
 ### Images
 
