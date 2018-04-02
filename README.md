@@ -12,3 +12,6 @@ numbered list
 ## Link
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+### Images
+
