@@ -23,5 +23,7 @@ http://github.com - automatic!
 Space between paragraphs.  
 Preceding para has 2 spaces at the end
 
+I think you should use an
+`<addr>` element here instead.
 
 
