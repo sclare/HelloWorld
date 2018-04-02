@@ -6,6 +6,8 @@ Line break \
 Bullet list
 - item a
 - item b
+- 1. nested item 1
+- 2. nested item 2
 numbered list
 1. item 1
 1. item 2
@@ -16,5 +18,10 @@ http://github.com - automatic!
 ### Images
 ![ModernAgile]HelloWorld/Modern Agile Wheel.png
 \
-![error_message]HelloWorld/itunes_error.PNG
+![error_message]HelloWorld/itunes_error.PNG]
+
+Space between paragraphs.  
+Preceding para has 2 spaces at the end
+
+
 
