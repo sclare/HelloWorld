@@ -9,6 +9,6 @@ Bullet list
 numbered list
 1. item 1
 1. item 2
-Link
+## Link
 http://github.com - automatic!
 [GitHub](http://github.com)
