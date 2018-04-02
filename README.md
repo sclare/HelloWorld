@@ -14,4 +14,5 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 ### Images
+![ModernAgile]HelloWorld/Modern Agile Wheel.png
 
