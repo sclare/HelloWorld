@@ -6,8 +6,8 @@ Line break \
 Bullet list
 - item a
 - item b
-- 1. nested item 1
-- 2. nested item 2
+  1. nested item 1
+  2. nested item 2
 numbered list
 1. item 1
 1. item 2
